@@ -61,9 +61,7 @@ Though, a little knowledge of git/github would be good. I therefore recommend to
 [Tutorial 22 - AWS Agent](022_AWS_Agent/README.md)
 
 
-<p align="center">
-<a href="https://www.youtube.com/c/xtremeexcel?sub_confirmation=1"><img src="/images/subscribe.gif" width="30%" height="30%"></a>
-</p>
+
 
 
 
