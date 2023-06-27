@@ -9,10 +9,6 @@ In this course you'd learn how to create pipelines from scratch. No prior knowle
 Though, a little knowledge of git/github would be good. I therefore recommend to go though my FREE course on [udemy to learn Git & Github.](https://www.udemy.com/course/gitandgithub/?referralCode=2799194A0FCC520AB4C3)
 
 
-<p align="center">
-<a href="https://www.youtube.com/c/xtremeexcel?sub_confirmation=1"><img src="/images/subscribe.gif" width="30%" height="30%"></a>
-</p>
-
 
 ## Content
 
